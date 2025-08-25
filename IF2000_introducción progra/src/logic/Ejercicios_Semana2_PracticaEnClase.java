@@ -89,7 +89,7 @@ public void ejercicioE() {
 Integer[] numeros = new Integer[100];
  Random rand = new Random();
 
- // Generar 100 números aleatorios 
+ // Generar 100 números aleatorios  
  for (int i = 0; i < 100; i++) {
  numeros[i] = rand.nextInt(1000) + 1;
  }

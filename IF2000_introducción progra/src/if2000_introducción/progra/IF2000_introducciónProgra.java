@@ -4,6 +4,7 @@
  */
 package if2000_introducción.progra;
 import logic.Ejercicios_Semana2_PracticaEnClase;
+import logic.Lab1_ejercicios;
 
 /**
  *
@@ -37,6 +38,49 @@ public class IF2000_introducciónProgra {
    System.out.println("----------Ejercicio F------------------");
    eje.ejercicioF();
     
+   System.out.println(" ");
+   System.out.println("-----------Lab1_Ejercicios-------------");
+   System.out.println(" ");
+   System.out.println("----------- Ejercicio 1 ---------------- ");
+   Lab1_ejercicios lab = new Lab1_ejercicios();
+    lab.ejercicio1();
+    
+    System.out.println("----------- Ejercicio 2 ---------------- ");
+    lab.ejercicio2 ();
+   
+   System.out.println("----------- Ejercicio 3 ---------------- ");
+    lab.ejercicio3 ();
+    
+    System.out.println("----------- Ejercicio4  ---------------- ");
+    lab.ejercicio4 ();
+     
+    System.out.println(" ");
+    System.out.println("----------- Ejercicio 5  ---------------- ");
+    lab.ejercicio5 ();
+    
+    System.out.println("----------- Ejercicio 6  ---------------- ");
+    lab.ejercicio6 ();
+    
+    System.out.println("----------- Ejercicio 7  ---------------- ");
+    lab.ejercicio7 ();
+    
+    System.out.println("----------- Ejercicio 8  ---------------- ");
+    lab.ejercicio8 ();
+    
+    System.out.println("----------- Ejercicio 9  ---------------- ");
+    lab.ejercicio9 ();
+    
+    System.out.println("----------- Ejercicio 10  ---------------- ");
+    lab.ejercicio10 ();
+    
+    System.out.println("----------- Ejercicio 11  ---------------- ");
+    lab.ejercicio11 ();
+    
+    System.out.println(" ");
+    System.out.println("----------- Ejercicio 12  ---------------- ");
+    lab.ejercicio12 ();
+    
+   System.out.println(" ");
    System.out.println("----------Piramide quiz 2--------------");
    // Crear instancia de la clase y llamar al método de pirámide  
     Ejercicios_Semana2_PracticaEnClase ej;
