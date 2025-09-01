@@ -5,6 +5,7 @@
 package if2000_introducción.progra;
 import logic.Ejercicios_Semana2_PracticaEnClase;
 import logic.Lab1_ejercicios;
+import logic.Lab2_Ejercicios;
 
 /**
  *
@@ -79,6 +80,57 @@ public class IF2000_introducciónProgra {
     System.out.println(" ");
     System.out.println("----------- Ejercicio 12  ---------------- ");
     lab.ejercicio12 ();
+    
+   System.out.println(" ");
+   System.out.println("-----------Lab2_Ejercicios----------------");
+   
+   System.out.println("----------- Ejercicio 13  ---------------- ");
+   Lab2_Ejercicios lab2 = new Lab2_Ejercicios();
+   lab2.ejercicio13();
+   
+   System.out.println("----------- Ejercicio 14  ---------------- ");
+   lab2.ejercicio14();
+   
+    System.out.println("----------- Ejercicio 15  ---------------- ");
+    lab2.ejercicio15();
+    
+    System.out.println("----------- Ejercicio 16  ---------------- ");
+    lab2.ejercicio16();
+    
+    System.out.println("----------- Ejercicio 17  ---------------- ");
+    lab2.ejercicio17();
+    
+    System.out.println("----------- Ejercicio 18  ---------------- ");
+    lab2.ejercicio18();
+    
+    System.out.println(" ");
+    System.out.println("----------- Ejercicio 19  ---------------- ");
+    lab2.ejercicio19();
+    
+    System.out.println("----------- Ejercicio 20  ---------------- ");
+    lab2.ejercicio20();
+    
+    System.out.println("----------- Ejercicio 21  ---------------- ");
+    lab2.ejercicio21();
+    
+    System.out.println("----------- Ejercicio 22  ---------------- ");
+    lab2.ejercicio22();
+    
+    System.out.println("----------- Ejercicio 23  ---------------- ");
+    lab2.ejercicio23();
+    
+    System.out.println("----------- Ejercicio 24  ---------------- ");
+    lab2.ejercicio24();
+    
+    System.out.println("----------- Ejercicio 25  ---------------- ");
+    lab2.ejercicio25();
+    
+    System.out.println("----------- Ejercicio 26  ---------------- ");
+    lab2.ejercicio26();
+    
+     System.out.println("----------- Ejercicio 27 ---------------- ");
+    lab2.ejercicio27();
+    
     
    System.out.println(" ");
    System.out.println("----------Piramide quiz 2--------------");
