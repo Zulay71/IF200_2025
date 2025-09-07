@@ -69,8 +69,9 @@ public class Person {
 
     @Override
     public String toString() {
-        return "Person\n"
-                + "" + "\nname=" + getName() 
+        return "---------------------"
+                +"\nPerson:"
+                + "\nname=" + getName() 
                 + "\n, lastName=" + getLastName() 
                 + "\n, id=" + getId() 
                 + "\n, phone=" + getPhone()
