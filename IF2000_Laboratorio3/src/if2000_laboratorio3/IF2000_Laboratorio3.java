@@ -48,7 +48,7 @@ CheckingAccount account2 = new CheckingAccount("2000567802", 15000, client2, 0.0
         System.out.println(account2);
 
         // Show transaction log
-       System.out.println("\n---- BITÁCORA ----");
+       System.out.println("\n---- BITACORA ----");
        Bitacora.showLog();
     
      
